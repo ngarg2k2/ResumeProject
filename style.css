@@ -1,5 +1,8 @@
 body{
     margin: 0px;
+    background-image: url(./Images/unnamed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .blog-header{
     background-image: url(./Images/macbook_mouse.jpg);
@@ -22,7 +25,67 @@ body{
     left: 350px;
     border-radius: 100%;
 }
+#About{
+    /* background-image: url(./Images/blurry-light-background.jpg); */
+
+}
 .Intro{
     text-align: center;
     font-size: 2rem;
+    /* color:white; */
+    color: #617222;
+}
+#Skills{
+    /* background-image: url(./Images/photo-1553095066-5014bc7b7f2d.jfif); */
+    color: #5b2525;
+    
+}
+
+.headskill{
+    /* background-color: #617222; */
+    font-size: 2rem;
+    position: relative;
+    left: 650px;
+}
+.skill-indicator{
+    height: 1.5rem;
+    width: 7rem;
+    background-color: lightgray;
+    border-radius: 10%;
+}
+.eighty{
+    height: inherit;
+    width: 80%;
+    background-color: blue;
+    border-radius: 10%;
+    color: white;
+}
+.ninty{
+    height: inherit;
+    width: 90%;
+    background-color:red;
+    border-radius: 10%;
+    color: white;
+
+}
+.seventy{
+    height: inherit;
+    width: 70%;
+    background-color:blue;
+    border-radius: 10%;
+    color: white;
+}
+.seventy-five{
+    height: inherit;
+    width: 75%;
+    background-color:red;
+    border-radius: 10%;
+    color: white;
+}
+.thirty{
+    height: inherit;
+    width: 30%;
+    background-color:blue;
+    border-radius: 10%;
+    color: white;
 }
