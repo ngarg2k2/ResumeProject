@@ -1,23 +1,26 @@
-body{
+body {
     margin: 0px;
     /* background-image: url(./Images/unnamed.jpg);
     background-repeat: no-repeat;
     background-size: cover; */
 }
-.blog-header{
+
+.blog-header {
     background-image: url(./Images/macbook_mouse.jpg);
     height: 500px;
     background-size: cover;
-    background-position:center;
+    background-position: center;
     opacity: 0.8;
 }
-.name{
+
+.name {
     color: white;
     font-size: 80px;
     font-family: 'Caveat', cursive;
     text-align: center;
 }
-#myimage img{
+
+#myimage img {
     position: relative;
     margin-top: -170px;
     height: 50vh;
@@ -25,90 +28,98 @@ body{
     left: 350px;
     border-radius: 100%;
 }
-#About{
-    /* background-image: url(./Images/blurry-light-background.jpg); */
 
+#About {
+    /* background-image: url(./Images/blurry-light-background.jpg); */
 }
-.Intro{
+
+.Intro {
     text-align: center;
     font-size: 2rem;
     /* color:white; */
     color: #617222;
 }
-#Skills{
+
+#Skills {
     /* background-image: url(./Images/photo-1553095066-5014bc7b7f2d.jfif); */
     background-color: lightgray;
     color: #5b2525;
-    
 }
 
-.headskill{
+.headskill {
     /* background-color: #617222; */
     font-size: 2rem;
     position: relative;
     left: 650px;
 }
-.skill-indicator{
+
+.skill-indicator {
     height: 1.5rem;
     border: .00001px solid black;
     width: 7rem;
     background-color: lightgray;
     border-radius: 10%;
 }
-.eighty{
+
+.eighty {
     height: inherit;
     width: 80%;
     background-color: blue;
     border-radius: 10%;
     color: white;
 }
-.ninty{
+
+.ninty {
     height: inherit;
     width: 90%;
-    background-color:red;
+    background-color: red;
     border-radius: 10%;
     color: white;
-    
 }
-.seventy{
+
+.seventy {
     height: inherit;
     width: 70%;
-    background-color:blue;
+    background-color: blue;
     border-radius: 10%;
     color: white;
 }
-.seventy-five{
+
+.seventy-five {
     height: inherit;
     width: 75%;
-    background-color:red;
+    background-color: red;
     border-radius: 10%;
     color: white;
 }
-.thirty{
+
+.thirty {
     height: inherit;
     width: 30%;
-    background-color:blue;
+    background-color: blue;
     border-radius: 10%;
     color: white;
 }
-.headexperience{
-    font-size: 2rem;
-    position: relative;
-    left: 600px;
-    color: #5b2525;
-    
-}
-.headeducation{
-    font-size: 2rem;
-    position: relative;
-    left: 600px;
-    color: #5b2525;
-}
-#Education{
-    background-color: lightgray;
 
+.headexperience {
+    font-size: 2rem;
+    position: relative;
+    left: 600px;
+    color: #5b2525;
 }
-.headportfolio{
+
+.headeducation {
+    font-size: 2rem;
+    position: relative;
+    left: 600px;
+    color: #5b2525;
+}
+
+#Education {
+    background-color: lightgray;
+}
+
+.headportfolio {
     font-size: 2rem;
     position: relative;
     left: 600px;
