@@ -108,3 +108,9 @@ body{
     background-color: lightgray;
 
 }
+.headportfolio{
+    font-size: 2rem;
+    position: relative;
+    left: 600px;
+    /* margin: 100px; */
+}
