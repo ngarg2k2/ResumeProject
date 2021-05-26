@@ -1,54 +1,24 @@
-/* Body */
 body{
     margin: 0px;
 }
-/* Header */
-#blog_header{
-    height: 65vh;
-    background-image: url("Images/macbook_mouse.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
+.blog-header{
+    background-image: url(./Images/macbook_mouse.jpg);
+    height: 500px;
     background-size: cover;
+    background-position:center;
     opacity: 0.8;
 }
-/* Horizontal Line */
-.horizontal_list{
-    font-size: 100px;
-    display: inline;
-    text-decoration: none;
+.name{
+    color: white;
+    font-size: 70px;
+    font-family: 'Caveat', cursive;
     text-align: center;
 }
-.horizontal_list li{
-    display: inline-block;
-    font-size: 50px;
-}
-.horizontal_list li a{
-    color: white;
-    padding: 0px;
-    margin: 0px 10px 0px 10px;
-    text-decoration: none;
-}
-.horizontal_list li a:hover{
-    /* color: yellow; */
-    border-bottom: 1px solid white;
-}
-#blog_header span{
-    text-align: center;
-    color: white;
-    font-size: 100px;
-    margin-left: 400px;
-    margin-right: 400px;
-    margin-top: 400px;
-}
-#blog_header img{
-    width: 50px;
-    height: 50px;
-}
-#image_navigation a{
-    text-decoration: none;
-
-}
-.border-success{
-    border-width: 4px !important;
-color: black !important;
+#myimage img{
+    position: relative;
+    margin-top: -170px;
+    height: 50vh;
+    width: 50vw;
+    left: 350px;
+    border-radius: 100%;
 }
