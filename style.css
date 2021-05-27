@@ -134,7 +134,7 @@ body {
 }
 
 #Contact {
-    background-color: darkblue;
+    background: linear-gradient(to right, #000428 0%, #004e92 100%)
 }
 
 .ending p {
