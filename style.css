@@ -50,12 +50,12 @@ body {
     /* background-color: #617222; */
     font-size: 2rem;
     position: relative;
-    left: 650px;
+    /* left: 650px; */
 }
 
 .skill-indicator {
     height: 1.5rem;
-    border: .00001px solid black;
+    /* border: .00001px solid black; */
     width: 7rem;
     background-color: white;
     border-radius: 10%;
@@ -66,7 +66,7 @@ body {
     width: 80%;
     background-color: blue;
     border-radius: 10%;
-    color: white;
+    color: black;
 }
 
 .ninty {
@@ -74,7 +74,7 @@ body {
     width: 90%;
     background-color: red;
     border-radius: 10%;
-    color: white;
+    color: black;
 }
 
 .seventy {
@@ -82,7 +82,7 @@ body {
     width: 70%;
     background-color: blue;
     border-radius: 10%;
-    color: white;
+    color: black;
 }
 
 .seventy-five {
@@ -90,7 +90,7 @@ body {
     width: 75%;
     background-color: red;
     border-radius: 10%;
-    color: white;
+    color: black;
 }
 
 .thirty {
@@ -98,20 +98,20 @@ body {
     width: 30%;
     background-color: red;
     border-radius: 10%;
-    color: white;
+    color: black;
 }
 
 .headexperience {
     font-size: 2rem;
     position: relative;
-    left: 600px;
+    /* left: 600px; */
     color: #5b2525;
 }
 
 .headeducation {
     font-size: 2rem;
     position: relative;
-    left: 600px;
+    /* left: 600px; */
     color: #5b2525;
 }
 
@@ -122,14 +122,14 @@ body {
 .headportfolio {
     font-size: 2rem;
     position: relative;
-    left: 600px;
+    /* left: 600px; */
     /* margin: 100px; */
 }
 
 .headcontact {
     font-size: 2rem;
     position: relative;
-    left: 600px;
+    /* left: 600px; */
     color: white;
 }
 
@@ -143,4 +143,8 @@ body {
 
 .ending h2 {
     color: white;
+}
+
+.head {
+    text-align: center;
 }
